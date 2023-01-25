@@ -20,7 +20,7 @@ t.case_table = {
 		faction = "Horde",
 		category = "raid",
 		level = 2,
-		description = "Slayed all the bosses then walked away with all the fancy loot!",
+		description = "Slayed all the bosses then walked away with all the fancy loot.",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 	},
 	[2] = {
