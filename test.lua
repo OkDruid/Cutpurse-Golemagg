@@ -38,8 +38,7 @@ t.case_table = {
 				name = "Ok",
 				class = "PALADIN",
 				faction = "Horde",
-			},
-
+			}
 		}
 	}
 }
