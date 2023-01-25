@@ -11,7 +11,7 @@ t.case_table = {
 		faction = "Horde",
 		category = "dungeon",
 		level = 4,
-		description = "Snuck into gdkp while they were distracted and pickpocketed all the gold",
+		description = "Snuck into gdkp while they were distracted and pickpocketed all the gold!",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 	},
 	[1] = {
