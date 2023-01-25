@@ -11,7 +11,7 @@ t.case_table = {
 		faction = "Horde",
 		category = "dungeon",
 		level = 4,
-		description = "Snuck into gdkp while they were distracted and pickpocketed all the golds!",
+		description = "Snuck into gdkp while they were distracted and pickpocketed all the golds",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 	},
 	[1] = {
@@ -20,13 +20,13 @@ t.case_table = {
 		faction = "Horde",
 		category = "raid",
 		level = 2,
-		description = "Slayed all bosses then walked away with all the fancy loots!",
+		description = "Slayed all bosses then walked away with all the fancy loots",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 	},
 	[2] = {
 		category = "dungeon",
 		level = 3,
-		description = "sneaked into the dungeon and vanished with all the loot!",
+		description = "sneaked into the dungeon and vanished with all the loot",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 		players = {
 			[0] = {
