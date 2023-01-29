@@ -6,31 +6,31 @@ t.version = "@project-version@"
 t.case_table = {
 	[0] = {
 		category = "gdkp",
-		level = 2,
+		level = 3,
 		description = "Snuck into gdkp while they were distracted and pickpocketed all the golds",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 		players = {
 			[0] = {
-				name = "Ok",
-				class = "PALADIN",
+				name = "Swedge",
+				class = "PRIEST",
 				faction = "Horde",
+				aliases = { "Swedgley" },
 			},
 			[1] = {
-				name = "Okshift",
-				class = "DRUID",
-				guid = "Player-4465-0307DFA7",
+				name = "Oksneak",
+				class = "ROGUE",
 				faction = "Horde",
 			},
 			[2] = {
-				name = "Oksneak",
-				class = "ROGUE",
+				name = "Ok",
+				class = "PALADIN",
 				faction = "Horde",
 			}
 		}
 	},
 	[1] = {
-		category = "dungeon",
-		level = 2,
+		category = "gdkp",
+		level = 4,
 		description = "Slayed all bosses then walked away with all the fancy loots",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 		players = {
@@ -39,10 +39,9 @@ t.case_table = {
 				faction = "Horde",
 			},
 			[1] = {
-				name = "Swedge",
-				class = "PRIEST",
+				name = "Ok",
+				class = "PALADIN",
 				faction = "Horde",
-				aliases = { "Swedgley" },
 			},
 			[2] = {
 				name = "Ow",
