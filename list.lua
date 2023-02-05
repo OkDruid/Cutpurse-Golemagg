@@ -1,6 +1,5 @@
 local _, t = ...
 
-
 -- Curator Discord Blocklist Table
 
 t.version = "@project-version@"
