@@ -1,9 +1,9 @@
 ## Interface: 30401
-## Title: Scambuster-Golemagg
-## Notes: Extension for Scambuster packaging Golemagg realm data
+## Title: Scambuster-TestRealm
+## Notes: Extension for Scambuster packaging test realm data
 ## Author: Swedge
 ## Version: 1.0.0
-## DefaultState: enabled
+## DefaultState: disabled
 ## Dependencies: Scambuster
 ## X-Curse-Project-ID: 809313
 
