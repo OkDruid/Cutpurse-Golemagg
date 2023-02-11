@@ -6,24 +6,34 @@ t.version = "@project-version@"
 
 t.case_table = {
 	[0] = {
-		name = "Swedge",
-		class = "PRIEST",
-		faction = "Horde",
-		aliases = {"Swedgley"},
-		category = "dungeon",
+		name = "Ok",
+		class = "PALADIN",
+		faction = "Alliance",
+		aliases = {"Äk", "ßoss"},
+		category = "gdkp",
 		level = 3,
-		description = "Did some super swedgey stuff then logged out!",
-		url = "https://discord.gg/",
+		description = "some description longer than 40 characters",
+		url = "https://discord.gg",
 	},
 	[1] = {
-		name = "Ow",
-		class = "ROGUE",
-		faction = "Alliance",
-		aliases = {"Owls", "Owley"},
 		category = "raid",
 		level = 3,
 		description = "Did some really super sneaky stuff all right.",
 		url = "https://discord.gg/",
+		players = {
+			[0] = {
+				name = "Ok",
+				class = "PALADIN",
+				faction = "Alliance",
+				aliases = {"Äk", "ßoss"},
+			},
+			[1] = {
+				name = "Ow",
+				class = "ROGUE",
+				faction = "Alliance",
+				aliases = {"Owls", "Owley"},
+			}
+		}
 	},
 	[2] = {
 		name = "Ok",
@@ -36,31 +46,6 @@ t.case_table = {
 		url = "https://discord.gg/",
 	},
 	[3] = {
-		category = "gdkp",
-		level = 3,
-		description = "Snuck into gdkp while they were distracted and pickpocketed all the golds",
-		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
-		players = {
-			[0] = {
-				name = "Oksneak",
-				class = "ROGUE",
-				faction = "Horde",
-			},
-			[1] = {
-				name = "Ok",
-				class = "PALADIN",
-				faction = "Alliance",
-				aliases = {"Äk", "ßoss"},
-			},
-			[2] = {
-				name = "Swedge",
-				class = "PRIEST",
-				faction = "Horde",
-				aliases = {"Swedgley"},
-			}
-		}
-	},
-	[4] = {
 		name = "Ok",
 		class = "PALADIN",
 		faction = "Alliance",
