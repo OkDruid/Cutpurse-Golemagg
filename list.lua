@@ -10,7 +10,7 @@ t.case_table = {
 		class = "PALADIN",
 		faction = "Alliance",
 		aliases = {"Äk", "ßoss"},
-		category = "plebasaurs",
+		category = "harassment",
 		level = 3,
 		description = "some description longer than 40 characters",
 		url = "https://discord.gg",
@@ -29,7 +29,7 @@ t.case_table = {
 			},
 			[1] = {
 				name = "Ow",
-				class = "ROGUE",
+				class = "WARRIOR",
 				faction = "Alliance",
 				aliases = {"Owls", "Owley"},
 			}
