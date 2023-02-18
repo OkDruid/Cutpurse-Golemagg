@@ -7,7 +7,6 @@ t.version = "@project-version@"
 t.case_table = {
 	[0] = {
 		name = "Ok",
-		class = "PALADIN",
 		faction = "Alliance",
 		aliases = {"Äk", "ßoss"},
 		category = "harassment",
@@ -22,22 +21,20 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "Ok",
-				class = "PALADIN",
-				faction = "Alliance",
-				aliases = {"Äk", "ßoss"},
-			},
-			[1] = {
 				name = "Ow",
 				class = "WARRIOR",
 				faction = "Alliance",
 				aliases = {"Owls", "Owley"},
+			},
+			[1] = {
+				name = "Ok",
+				faction = "Alliance",
+				aliases = {"Äk", "ßoss"},
 			}
 		}
 	},
 	[2] = {
 		name = "Ok",
-		class = "PALADIN",
 		faction = "Alliance",
 		aliases = {"Äk", "ßoss"},
 		category = "raid",
@@ -47,7 +44,6 @@ t.case_table = {
 	},
 	[3] = {
 		name = "Ok",
-		class = "PALADIN",
 		faction = "Alliance",
 		aliases = {"Äk", "ßoss"},
 		category = "gdkp",
