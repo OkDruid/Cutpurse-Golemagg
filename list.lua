@@ -22,13 +22,13 @@ t.case_table = {
 		players = {
 			[0] = {
 				name = "test5",
-				class = "WARLOCK",
+				class = "PALADIN",
 				faction = "Horde",
 			},
 			[1] = {
 				name = "test6",
 				class = "ROGUE",
-				faction = "Alliance",
+				faction = "Horde",
 			},
 			[2] = {
 				name = "test7",
@@ -45,13 +45,13 @@ t.case_table = {
 		players = {
 			[0] = {
 				name = "test5",
-				class = "WARLOCK",
+				class = "PALADIN",
 				faction = "Horde",
 			},
 			[1] = {
 				name = "test6",
 				class = "ROGUE",
-				faction = "Alliance",
+				faction = "Horde",
 			}
 		}
 	},
@@ -63,27 +63,27 @@ t.case_table = {
 		players = {
 			[0] = {
 				name = "test4",
-				class = "HUNTER",
+				class = "PALADIN",
 				faction = "Horde",
 			},
 			[1] = {
-				name = "test6",
-				class = "ROGUE",
-				faction = "Alliance",
-			},
-			[2] = {
 				name = "test2",
 				class = "SHAMAN",
 				faction = "Alliance",
 			},
+			[2] = {
+				name = "test6",
+				class = "ROGUE",
+				faction = "Horde",
+			},
 			[3] = {
-				name = "test5",
+				name = "test1",
 				class = "WARLOCK",
 				faction = "Horde",
 			},
 			[4] = {
-				name = "test1",
-				class = "WARLOCK",
+				name = "test5",
+				class = "PALADIN",
 				faction = "Horde",
 			}
 		}
@@ -95,15 +95,15 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
+				name = "Ow",
+				class = "WARRIOR",
+				faction = "Horde",
+				aliases = {"Owls", "Owley"},
+			},
+			[1] = {
 				name = "Ok",
 				faction = "Alliance",
 				aliases = {"Äk", "ßoss"},
-			},
-			[1] = {
-				name = "Ow",
-				class = "WARRIOR",
-				faction = "Alliance",
-				aliases = {"Owls", "Owley"},
 			}
 		}
 	},
@@ -121,7 +121,7 @@ t.case_table = {
 			[1] = {
 				name = "Ow",
 				class = "WARRIOR",
-				faction = "Alliance",
+				faction = "Horde",
 				aliases = {"Owls", "Owley"},
 			},
 			[2] = {
