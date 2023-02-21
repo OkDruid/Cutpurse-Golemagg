@@ -9,7 +9,7 @@ t.case_table = {
 		name = "test7",
 		class = "PRIEST",
 		faction = "Horde",
-		category = "dungeon",
+		category = "gdkp",
 		level = 4,
 		description = "drunkenly stumbled into the dungeon and ran off with all the shinies.",
 		url = "https://discord.gg/",
@@ -21,13 +21,13 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "test5",
-				class = "PALADIN",
+				name = "test6",
+				class = "ROGUE",
 				faction = "Horde",
 			},
 			[1] = {
-				name = "test6",
-				class = "ROGUE",
+				name = "test5",
+				class = "PALADIN",
 				faction = "Horde",
 			},
 			[2] = {
@@ -38,8 +38,8 @@ t.case_table = {
 		}
 	},
 	[2] = {
-		category = "dungeon",
-		level = 3,
+		category = "trade",
+		level = 4,
 		description = "drunkenly stumbled into the dungeon and ran off with all the shinies.",
 		url = "https://discord.gg/",
 		players = {
@@ -62,34 +62,34 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "test4",
-				class = "PALADIN",
-				faction = "Horde",
-			},
-			[1] = {
 				name = "test2",
 				class = "SHAMAN",
 				faction = "Alliance",
 			},
+			[1] = {
+				name = "test5",
+				class = "PALADIN",
+				faction = "Horde",
+			},
 			[2] = {
-				name = "test6",
-				class = "ROGUE",
+				name = "test4",
+				class = "PALADIN",
 				faction = "Horde",
 			},
 			[3] = {
 				name = "test1",
-				class = "WARLOCK",
+				class = "SHAMAN",
 				faction = "Horde",
 			},
 			[4] = {
-				name = "test5",
-				class = "PALADIN",
+				name = "test6",
+				class = "ROGUE",
 				faction = "Horde",
 			}
 		}
 	},
 	[4] = {
-		category = "raid",
+		category = "trade",
 		level = 3,
 		description = "Did some really super sneaky stuff all right.",
 		url = "https://discord.gg/",
@@ -108,38 +108,15 @@ t.case_table = {
 		}
 	},
 	[5] = {
-		category = "gdkp",
-		level = 2,
-		description = "Slayed all bosses then walked away with all the fancy loots",
-		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
-		players = {
-			[0] = {
-				name = "Ok",
-				faction = "Alliance",
-				aliases = {"Äk", "ßoss"},
-			},
-			[1] = {
-				name = "Ow",
-				class = "WARRIOR",
-				faction = "Horde",
-				aliases = {"Owls", "Owley"},
-			},
-			[2] = {
-				guild = "Sons of Hey",
-				faction = "Alliance",
-			}
-		}
-	},
-	[6] = {
 		name = "Ok",
 		faction = "Alliance",
 		aliases = {"Äk", "ßoss"},
-		category = "gdkp",
+		category = "trade",
 		level = 4,
 		description = "sneaked into the dungeon and vanished with all the loot!",
 		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
 	},
-	[7] = {
+	[6] = {
 		name = "Ok",
 		faction = "Alliance",
 		aliases = {"Äk", "ßoss"},
@@ -148,11 +125,11 @@ t.case_table = {
 		description = "some description longer than 40 characters",
 		url = "https://discord.gg",
 	},
-	[8] = {
+	[7] = {
 		name = "Ok",
 		faction = "Alliance",
 		aliases = {"Äk", "ßoss"},
-		category = "plebasaurs",
+		category = "plebs",
 		level = 3,
 		description = "listed for being too damn good at everything!",
 		url = "https://discord.gg/",
