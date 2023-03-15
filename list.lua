@@ -15,7 +15,7 @@ t.case_table = {
 		url = "https://discord.gg/",
 	},
 	[1] = {
-		category = "dungeon",
+		category = "trade",
 		level = 3,
 		description = "drunkenly stumbled into the dungeon and ran off with all the shinies.",
 		url = "https://discord.gg/",
@@ -44,13 +44,19 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "test6",
-				class = "SHAMAN",
+				name = "test5",
+				class = "WARRIOR",
 				faction = "Horde",
 			},
 			[1] = {
-				name = "test5",
-				class = "WARRIOR",
+				name = "Ow",
+				class = "WARLOCK",
+				faction = "Alliance",
+				aliases = {"Owls", "Owley"},
+			},
+			[2] = {
+				name = "test6",
+				class = "SHAMAN",
 				faction = "Horde",
 			}
 		}
@@ -62,10 +68,8 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "Ow",
-				class = "MAGE",
+				guild = "Sons of Hey",
 				faction = "Alliance",
-				aliases = {"Owls", "Owley"},
 			},
 			[1] = {
 				name = "Äonahala",
@@ -80,22 +84,12 @@ t.case_table = {
 		class = "PALADIN",
 		faction = "Horde",
 		aliases = {"Äk", "ßoss", "Ok", "Äok"},
-		category = "trade",
-		level = 3,
-		description = "sneaked into the dungeon and vanished with all the loot!",
-		url = "https://discord.com/channels/1055067923829510174/1058910793577529365/1066386586306084964",
-	},
-	[5] = {
-		name = "Äonahala",
-		class = "PALADIN",
-		faction = "Horde",
-		aliases = {"Äk", "ßoss", "Ok", "Äok"},
 		category = "harassment",
 		level = 3,
 		description = "some description longer than 40 characters",
 		url = "https://discord.gg",
 	},
-	[6] = {
+	[5] = {
 		name = "test4",
 		class = "MAGE",
 		faction = "Horde",
@@ -104,14 +98,13 @@ t.case_table = {
 		description = "some description longer than 40 characters and shorter than 140..",
 		url = "https://discord.com/channels/1055067923829510174/1073620620761382942/1082603411192676423",
 	},
-	[7] = {
-		name = "Äonahala",
-		class = "PALADIN",
+	[6] = {
+		name = "test6",
+		class = "SHAMAN",
 		faction = "Horde",
-		aliases = {"Äk", "ßoss", "Ok", "Äok"},
-		category = "plebs",
-		level = 3,
-		description = "listed for being too damn good at everything!",
+		category = "gdkp",
+		level = 4,
+		description = "stole all the cookies from the cookie jar!",
 		url = "https://discord.gg/",
 	}
 }
