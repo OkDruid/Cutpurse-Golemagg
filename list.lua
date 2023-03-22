@@ -6,18 +6,9 @@ t.version = "@project-version@"
 
 t.case_table = {
 	[0] = {
-		name = "test7",
-		class = "PRIEST",
-		faction = "Horde",
-		category = "dungeon",
-		level = 3,
-		description = "test report with test description with filler text..",
-		url = "https://discord.gg/",
-	},
-	[1] = {
 		category = "trade",
-		level = 3,
-		description = "drunkenly stumbled into the dungeon and ran off with all the shinies.",
+		level = 2,
+		description = "test report with test description with filler text..",
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
@@ -26,13 +17,31 @@ t.case_table = {
 				faction = "Horde",
 			},
 			[1] = {
-				name = "test6",
-				class = "SHAMAN",
+				name = "Knightni",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+			}
+		}
+	},
+	[1] = {
+		category = "trade",
+		level = 3,
+		description = "drunkenly stumbled into the dungeon and ran off with all the shinies.",
+		url = "https://discord.gg/",
+		players = {
+			[0] = {
+				name = "test5",
+				class = "WARRIOR",
+				faction = "Horde",
+			},
+			[1] = {
+				name = "test7",
+				class = "PRIEST",
 				faction = "Horde",
 			},
 			[2] = {
-				name = "test5",
-				class = "WARRIOR",
+				name = "test6",
+				class = "SHAMAN",
 				faction = "Horde",
 			}
 		}
@@ -44,8 +53,8 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "test5",
-				class = "WARRIOR",
+				name = "test6",
+				class = "SHAMAN",
 				faction = "Horde",
 			},
 			[1] = {
@@ -55,8 +64,8 @@ t.case_table = {
 				aliases = {"Owls", "Owley"},
 			},
 			[2] = {
-				name = "test6",
-				class = "SHAMAN",
+				name = "test5",
+				class = "WARRIOR",
 				faction = "Horde",
 			}
 		}
@@ -76,18 +85,33 @@ t.case_table = {
 				class = "PALADIN",
 				faction = "Horde",
 				aliases = {"Äk", "ßoss", "Ok", "Äok"},
+			},
+			[2] = {
+				name = "Swedge",
+				class = "PALADIN",
+				faction = "Horde",
+				aliases = {"Swedgley"},
 			}
 		}
 	},
 	[4] = {
-		name = "Äonahala",
-		class = "PALADIN",
-		faction = "Horde",
-		aliases = {"Äk", "ßoss", "Ok", "Äok"},
 		category = "harassment",
 		level = 3,
 		description = "some description longer than 40 characters",
 		url = "https://discord.gg",
+		players = {
+			[0] = {
+				name = "Knightni",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
+			},
+			[1] = {
+				name = "Äonahala",
+				class = "PALADIN",
+				faction = "Horde",
+				aliases = {"Äk", "ßoss", "Ok", "Äok"},
+			}
+		}
 	},
 	[5] = {
 		name = "test4",
