@@ -12,13 +12,13 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "test7",
-				class = "PRIEST",
+				name = "Knightni",
+				class = "DEATHKNIGHT",
 				faction = "Horde",
 			},
 			[1] = {
-				name = "Knightni",
-				class = "DEATHKNIGHT",
+				name = "test7",
+				class = "PRIEST",
 				faction = "Horde",
 			}
 		}
@@ -30,18 +30,18 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
+				name = "test6",
+				class = "SHAMAN",
+				faction = "Horde",
+			},
+			[1] = {
 				name = "test5",
 				class = "WARRIOR",
 				faction = "Horde",
 			},
-			[1] = {
+			[2] = {
 				name = "test7",
 				class = "PRIEST",
-				faction = "Horde",
-			},
-			[2] = {
-				name = "test6",
-				class = "SHAMAN",
 				faction = "Horde",
 			}
 		}
@@ -53,8 +53,8 @@ t.case_table = {
 		url = "https://discord.gg/",
 		players = {
 			[0] = {
-				name = "test6",
-				class = "SHAMAN",
+				name = "test5",
+				class = "WARRIOR",
 				faction = "Horde",
 			},
 			[1] = {
@@ -64,8 +64,8 @@ t.case_table = {
 				aliases = {"Owls", "Owley"},
 			},
 			[2] = {
-				name = "test5",
-				class = "WARRIOR",
+				name = "test6",
+				class = "SHAMAN",
 				faction = "Horde",
 			}
 		}
@@ -101,15 +101,15 @@ t.case_table = {
 		url = "https://discord.gg",
 		players = {
 			[0] = {
-				name = "Knightni",
-				class = "DEATHKNIGHT",
-				faction = "Horde",
-			},
-			[1] = {
 				name = "Äonahala",
 				class = "PALADIN",
 				faction = "Horde",
 				aliases = {"Äk", "ßoss", "Ok", "Äok"},
+			},
+			[1] = {
+				name = "Knightni",
+				class = "DEATHKNIGHT",
+				faction = "Horde",
 			}
 		}
 	},
