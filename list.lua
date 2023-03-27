@@ -6,7 +6,7 @@ t.version = "@project-version@"
 
 t.case_table = {
 	[0] = {
-		category = "trade",
+		category = "raid",
 		level = 2,
 		description = "test report with test description with filler text..",
 		url = "https://discord.gg/",
@@ -24,7 +24,7 @@ t.case_table = {
 		}
 	},
 	[1] = {
-		category = "trade",
+		category = "dungeon",
 		level = 3,
 		description = "drunkenly stumbled into the dungeon and ran off with all the shinies.",
 		url = "https://discord.gg/",
@@ -47,7 +47,7 @@ t.case_table = {
 		}
 	},
 	[2] = {
-		category = "trade",
+		category = "gdkp",
 		level = 4,
 		description = "drunkenly stumbled into the dungeon and ran off with all the shinies.",
 		url = "https://discord.gg/",
@@ -95,7 +95,7 @@ t.case_table = {
 		}
 	},
 	[4] = {
-		category = "harassment",
+		category = "raid",
 		level = 3,
 		description = "some description longer than 40 characters",
 		url = "https://discord.gg",
