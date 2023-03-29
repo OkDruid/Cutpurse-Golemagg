@@ -51,10 +51,10 @@ t.case_table = {
 				aliases = {"Swedgley"},
 			},
 			[1] = {
-				name = "Ayoh",
+				name = "Ayoah",
 				class = "PALADIN",
 				faction = "Horde",
-				aliases = {"Äonahala", "Äk", "ßoss", "Ok", "Äok"},
+				aliases = {"Ayoh", "Äonahala", "Äk", "ßoss", "Ok", "Äok"},
 			}
 		}
 	},
@@ -65,10 +65,10 @@ t.case_table = {
 		url = "https://discord.gg",
 		players = {
 			[0] = {
-				name = "Ayoh",
+				name = "Ayoah",
 				class = "PALADIN",
 				faction = "Horde",
-				aliases = {"Äonahala", "Äk", "ßoss", "Ok", "Äok"},
+				aliases = {"Ayoh", "Äonahala", "Äk", "ßoss", "Ok", "Äok"},
 			},
 			[1] = {
 				name = "Knightni",
