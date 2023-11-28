@@ -112,7 +112,7 @@ t.case_table = {
 		url = "https://discord.com/channels/1055067923829510174/1073620620761382942/1082603411192676423",
 		name = "test4",
 		class = "MAGE",
-		faction = "Horde",
+		faction = "Alliance",
 	},
 	[6] = {
 		category = "gdkp",
