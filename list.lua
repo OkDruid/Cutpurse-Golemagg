@@ -59,7 +59,9 @@ t.case_table = {
 		players = {
 			[1] = {
 				name = "Swedge",
+				class = "PALADIN",
 				faction = "Horde",
+				guid = "Player-4465-03045EF1",
 				aliases = {
 					"Swedgley",
 				},
